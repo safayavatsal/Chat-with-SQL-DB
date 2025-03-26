@@ -23,7 +23,7 @@ This project is a Streamlit application that allows users to interact with a SQL
 
    ```bash
    git clone https://github.com/safayavatsal/Chat-with-SQL-DB.git
-   cd your-repo-name
+   cd Chat-with-SQL-DB
    ```
 
 2. Install the required packages:
